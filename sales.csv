@@ -1,0 +1,6 @@
+date,convenience_store,store,county_number,county,category,category_name,vendor_no,vendor,item,description,pack,liter_size,state_btl_cost,btl_price,bottle_qty,total
+11/13/14 0:00,NULL,2635,82,Scott,1032200,IMPORTED VODKA - MISC,370,Pernod Ricard USA/Austin Nichols,34036,Absolut Pears,12,750,$11.49 ,$17.24 ,4,68.96
+11/13/14 0:00,NULL,2635,82,Scott,1032200,IMPORTED VODKA - MISC,370,Pernod Ricard USA/Austin Nichols,34076,Absolut Vanilia,12,750,$11.49 ,$17.24 ,12,206.88
+11/13/14 0:00,NULL,2635,82,Scott,1032200,IMPORTED VODKA - MISC,370,Pernod Ricard USA/Austin Nichols,34116,Absolut Mandrin,12,750,$11.49 ,$17.24 ,12,206.88
+11/13/14 0:00,NULL,2635,82,Scott,1032080,IMPORTED VODKA,420,Moet Hennessy USA Inc.,34155,Belvedere Vodka,6,750,$17.15 ,$25.73 ,6,154.38
+11/13/14 0:00,NULL,2635,82,Scott,1032080,IMPORTED VODKA,260,Diageo Americas,34164,Ciroc Luxury Vodka,24,200,$5.00 ,$7.50 ,6,45
